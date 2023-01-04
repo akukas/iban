@@ -1,0 +1,12 @@
+{
+  "name": "iban",
+  "version": "1.0.0",
+  "description": "Validate an IBAN using BigInt for calculations",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
